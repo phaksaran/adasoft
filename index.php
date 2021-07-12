@@ -1,3 +1,1 @@
-<?php echo "Hello" ?>
-<?php echo "hello2" ?>
-<?php echo "hello3" ?>
+<?php echo "test ที่ 1 " ?>
